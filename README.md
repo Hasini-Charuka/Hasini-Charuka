@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # Hi, I'm Hasini Charuka! 👋
 
 I'm a passionate **Mechatronics Engineer** and **Machine Vision Researcher** specializing in robotics, AI, and automation.
@@ -39,4 +36,4 @@ I'm always excited about exploring innovative solutions to challenging problems.
 
 
 
--->
+
