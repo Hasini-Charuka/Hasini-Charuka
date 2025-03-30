@@ -14,7 +14,7 @@ I hold an MPhil in Robotics and Autonomous Drive Systems from Queensland Univers
 
 ## 💼 Professional Experience
 - Control Systems engineering for mining operations and environmental monitoring with **BHP**.
-- Engineered automation solutions at **Komatsu Mining Corp**, **MAS Active**, and **Nikini Automation Systems**.
+- Engineered automation solutions at **EEHA Automation**, **Komatsu Mining Corp**, **MAS Active**, and **Nikini Automation Systems**.
 - Conducted research at **CSIRO Data61**, focusing on evolving soft robot technologies and CPPNs.
 
 ## 🔍 Research Interests
